@@ -11,6 +11,9 @@
 
     <modules>
         <module>spring-cloud-eureka-server</module>
+        <module>spring-cloud-producer</module>
+        <module>spring-cloud-consumer</module>
+        <module>spring-cloud-producer-2</module>
     </modules>
 
     <parent>
